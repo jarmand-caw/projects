@@ -9,3 +9,6 @@ https://github.com/jarmand-caw/Clothing-Image-Tagging
 
 ## Loan Data Predictions
 https://github.com/jarmand-caw/Loan-Data-Predictions
+
+## Deep Learning Recommendation Engine
+https://github.com/jarmand-caw/Streaming_AI
