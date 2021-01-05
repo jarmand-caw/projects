@@ -12,3 +12,6 @@ https://github.com/jarmand-caw/Loan-Data-Predictions
 
 ## Deep Learning Recommendation Engine
 https://github.com/jarmand-caw/Streaming_AI
+
+## Monte Carlo Simulation Financial Modeling Dashboard
+https://github.com/jarmand-caw/Eagle_Dashboard
